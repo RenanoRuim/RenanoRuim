@@ -2,14 +2,9 @@
 
 # 👋 Olá! Eu sou Pedro Renan
 
-### Desenvolvedor em formação | Front-end • Full Stack • Game Development
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Front-end+%7C+Full+Stack;Game+Development;Transformando+ideias+em+projetos!" alt="Texto animado de apresentação" />
 
 **Transformando ideias em experiências digitais, uma linha de código por vez.**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 </div>
 
@@ -19,7 +14,7 @@
 
 Sou estudante de **Programação de Jogos Digitais** e desenvolvedor em formação, com interesse em desenvolvimento Web, aplicações multiplataforma e criação de jogos.
 
-Gosto de transformar e criar ideias em projetos funcionais, explorar tecnologias e aprender durante o processo de desenvolvimento.
+Gosto de transformar ideias em projetos funcionais, explorar tecnologias e aprender durante o processo de desenvolvimento.
 
 Tenho experiência prática com **HTML, CSS, JavaScript, React e Unity**, além de estar aprofundando meus conhecimentos em **TypeScript, Node.js, bancos de dados e desenvolvimento Full Stack**.
 
@@ -44,28 +39,27 @@ Atualmente, busco aprimorar minhas habilidades técnicas, construir projetos rel
 
 ### 🌐 Front-end
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript e React" />
+</div>
 
-### ⚙️ Em desenvolvimento
+### ⚙️ Back-end e desenvolvimento de aplicações
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,sqlite,postgres&theme=dark" alt="Node.js, TypeScript, SQLite e PostgreSQL" />
+</div>
 
 ### 🎮 Desenvolvimento de jogos
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=unity,cs&theme=dark" alt="Unity e C Sharp" />
+</div>
 
 ### 🔧 Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e Visual Studio Code" />
+</div>
 
 ---
 
@@ -81,7 +75,7 @@ Aplicação multiplataforma com questões, revisão de erros, redações, acompa
 
 **Desenvolvimento:** projeto idealizado e conduzido por mim, com implementação majoritariamente assistida por Inteligência Artificial utilizando Vibe Coding.
 
-**[📂 Repositório](https://github.com/RenanoRuim/ENEM.DEV)**
+[![Repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RenanoRuim/ENEM.DEV)
 
 ---
 
@@ -95,7 +89,7 @@ A experiência envolve um cenário pós-catástrofe, no qual o jogador precisa s
 
 **Tecnologias:** Unity e C#.
 
-**[🎮 Ver projeto](https://aaadry.itch.io/the-last-bunker)**
+[![Jogar no itch.io](https://img.shields.io/badge/Jogar_no_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://aaadry.itch.io/the-last-bunker)
 
 ---
 
@@ -107,10 +101,9 @@ Projeto Web desenvolvido para expandir a narrativa do jogo, apresentando uma org
 
 **Tecnologias:** React e JavaScript.
 
-**[🌐 Ver projeto](https://nera-arg.vercel.app/login)**
+[![Acessar NERA](https://img.shields.io/badge/Acessar_projeto-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://nera-arg.vercel.app/login)
 
 ---
-
 
 ## 📚 Atualmente estudando
 
@@ -131,9 +124,9 @@ Meu objetivo é fortalecer principalmente meus conhecimentos em backend e integr
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenanoRuim&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RenanoRuim&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub de Pedro Renan" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanoRuim&layout=compact&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanoRuim&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas nos repositórios" />
 
 </div>
 
@@ -157,11 +150,15 @@ Meu objetivo é fortalecer principalmente meus conhecimentos em backend e integr
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RenanoRuim)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-renan-alves-de-lima-7bb425384/)
-
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white)](EM_PRODUCAO)
+<a href="https://github.com/RenanoRuim">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/pedro-renan-alves-de-lima-7bb425384/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="EM_PRODUCAO">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+</a>
 
 </div>
 
